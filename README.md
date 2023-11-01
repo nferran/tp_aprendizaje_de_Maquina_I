@@ -1,4 +1,4 @@
-# tp_aprendizaje_de_Maquina_I
+# tp_aprendizaje_de_maquina_I
 ## CEIA Co13
 
 ### Alumno:
