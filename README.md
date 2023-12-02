@@ -5,9 +5,9 @@
 - Ferrán, Natanael Emir
 
 ### Dataset:
-- [Wind Speed Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/wind-speed-prediction-dataset/)
+- [Water Quality](https://www.kaggle.com/datasets/adityakadiwal/water-potability/)
 
 ### A resolver:
-- Predecir la velocidad del viento
+- Clasificar distintas aguas en potables y no potables
 
 ***
