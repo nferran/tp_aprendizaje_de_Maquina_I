@@ -18,6 +18,5 @@
 - KNN
 - Random forest
 - Support Vector Machines
-- NNet
 
 ***
