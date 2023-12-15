@@ -7,8 +7,8 @@
 
 ### Dataset:
 - [Water Quality](https://www.kaggle.com/datasets/adityakadiwal/water-potability/)
-- **Licencia:** *Data files © Original Authors*
-- **Autor:** *fedesoriano*
+- **Licencia:** *CC0: Public Domain*
+- **Autor:** *Aditya Kadiwal*
 
 ### A resolver:
 - Clasificar distintas aguas en potables y no potables
